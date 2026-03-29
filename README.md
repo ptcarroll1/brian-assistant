@@ -9,8 +9,16 @@ This project was created to help manage and improve the internship application p
 - resume iteration and editing
 - internship search support
 - application tracking and follow-up
-- persistent memory/context across sessions
+- persistent memory and context across sessions
 - structured workspace configuration for long-term assistance
+
+## Repository Contents
+
+- `IDENTITY.md` — assistant identity, mission, and role
+- `SOUL.md` — behavior guidelines and tone
+- `AGENTS.md` — workspace operating rules and memory workflow
+- `TOOLS.md` — local tool/setup notes
+- `docs/USER.example.md` — example user profile structure for tailoring assistance
 
 ## What I Built
 
@@ -29,4 +37,6 @@ This project was created to help manage and improve the internship application p
 
 ## Notes
 
-This repository documents the project concept and workspace design used to create Brian as a focused AI assistant for internship support.
+This repository documents the project structure and workspace design used to create Brian as a focused AI assistant for internship support.
+
+Sensitive long-term memory and private runtime state are intentionally excluded.
